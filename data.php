@@ -22,5 +22,5 @@ if ($dbquery)
     {
         echo "ไม่สามารถทำการบันทึกข้อมูลได้";
     }
-mysqli_close();
+mysqli_close($condb);
 ?>
