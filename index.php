@@ -3,7 +3,7 @@
     <title>ระบบสมัครสมาชิกร้านขายหนังสือ</title>
 </head>
 <body>
-    <form action="method" action="data.php">
+    <form method="post" action="data.php">
         <table width='400' border="0" align="center" cellspacing="1" cellpadding="2" bgcolor="6699ff">
             <tr>
                 <td colspan="2" align="center"><h4><font color="#ffffff">โปรแกรมระบบสมัครสมาชิก</font></h4></td>
